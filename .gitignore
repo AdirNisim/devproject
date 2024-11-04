@@ -1,0 +1,23 @@
+# Compiled source code
+*.class
+*.o
+*.so
+*.dll
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.Thumbs.db
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build directories
+dist/
+build/
+
+# Secret files
+.env
