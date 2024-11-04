@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: runner-1
+    runs-on: daniel-1
 
     steps:
     - name: Checkout repository
