@@ -12,7 +12,7 @@ jobs:
     steps:
 
       - name: List files in the repository
-        run: ls -la
+        run: ls
 
       - name: Print working directory
         run: pwd
