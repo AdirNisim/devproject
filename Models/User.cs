@@ -2,6 +2,7 @@ using System;
 
 namespace WebApplication1.Models
 {
+    // User model
     public class User
     {
         public int Id { get; set; }
