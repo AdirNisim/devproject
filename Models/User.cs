@@ -2,7 +2,7 @@ using System;
 
 namespace WebApplication1.Models
 {
-    // User model
+    // User model sschema
     public class User
     {
         public int Id { get; set; }
